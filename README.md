@@ -14,4 +14,4 @@ This project aims to use `computational geometry` algorithms to create a `linear
 
 ---
 **Students:**
-[Juan Braga](https://github.com/juanmbraga), [Lucas Almeida](https://github.com/tekukas), e [Luiz Romanhol](https://github.com/LuizRomanhol)
+[Juan Braga](https://github.com/juanmbraga), [Lucas Almeida](https://github.com/zzzluquinhas), e [Luiz Romanhol](https://github.com/LuizRomanhol)
